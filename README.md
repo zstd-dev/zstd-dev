@@ -1,123 +1,97 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=zstd-dev&fontSize=70&fontColor=ff0033&animation=fadeIn&stroke=ff0033&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=180&section=header&text=zstd-dev&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Plugin%20%26%20Mod%20Developer%20%E2%80%A2%201.5.2%20%E2%86%92%201.21&descAlignY=60&descSize=16&descColor=ff0033)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=//+MINECRAFT+PLUGIN+%26+MOD+DEVELOPER;//+JAVA+%7C+SPIGOT+%7C+FORGE+%7C+FABRIC;//+VERSIONS+1.5.2+%E2%86%92+1.21;//+BUGS+FEAR+ME.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=Minecraft+Plugin+%26+Mod+Development;Java+%7C+Golang+%7C+Python+%7C+TypeScript;Bukkit+%7C+Spigot+%7C+Paper+%7C+Forge+%7C+Fabric;From+scratch+or+existing+codebase;Bugs+fear+me.)](https://git.io/typing-svg)
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-`[ SYSTEM ONLINE ]` `[ RUNTIME ACTIVE ]` `[ MINECRAFT CORE LOADED ]`
+![](https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-ff0033?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/VERSIONS-1.5.2%20→%201.21-ff0033?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/MODE-FROM%20SCRATCH%20%7C%20EXISTING%20CODE-ff0033?style=flat-square&labelColor=0a0a0a)
 
 </div>
 
 ---
 
+## Services
+
+<table>
+<tr>
+<td width="50%">
+<b>Плагины</b><br>
+<sub>Bukkit · Spigot · Paper</sub>
+</td>
+<td width="50%">
+<b>Моды</b><br>
+<sub>Forge · Fabric</sub>
+</td>
+</tr>
+<tr>
+<td>
+<b>Оптимизация</b><br>
+<sub>Плагины · Моды · Ядра</sub>
+</td>
+<td>
+<b>Исправление багов и крашей</b><br>
+<sub>Ядра · Плагины · Моды · Ошибки</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## Stack
+
+**Backend**
+
+[![Skills](https://skillicons.dev/icons?i=java,go,python,spring,mysql&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![Skills](https://skillicons.dev/icons?i=ts,scss,html,vue,nuxtjs,react&theme=dark)](https://skillicons.dev)
+
+**Minecraft**
+
+![](https://img.shields.io/badge/Bukkit-ff0033?style=flat-square&labelColor=0f0f0f)
+![](https://img.shields.io/badge/Spigot-ff0033?style=flat-square&labelColor=0f0f0f)
+![](https://img.shields.io/badge/Paper-ff0033?style=flat-square&labelColor=0f0f0f)
+![](https://img.shields.io/badge/Forge-ff0033?style=flat-square&labelColor=0f0f0f)
+![](https://img.shields.io/badge/Fabric-ff0033?style=flat-square&labelColor=0f0f0f)
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-FF0033?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davidich444)
-[![VK](https://img.shields.io/badge/VKONTAKTE-FF0033?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/davidich444)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zstd-dev&show_icons=true&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=aaaaaa&bg_color=0a0a0a)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstd-dev&layout=compact&theme=dark&hide_border=true&title_color=ff0033&text_color=aaaaaa&bg_color=0a0a0a)
+
+![Streak](https://streak-stats.demolab.com?user=zstd-dev&theme=dark&hide_border=true&background=0a0a0a&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=555555&currStreakNum=ffffff&sideNums=aaaaaa&dates=333333)
 
 </div>
 
 ---
 
-```
-> PROFILE.exe
-──────────────────────────────────────────────────────
-  alias     : zstd-dev
-  focus     : Minecraft Plugin & Mod Development
-  versions  : 1.5.2 ──────────────────────────► 1.21
-  mode      : from_scratch | existing_codebase
-  status    : [ AVAILABLE FOR HIRE ]
-──────────────────────────────────────────────────────
-```
+## Contract
 
----
-
-```
-> SERVICES.list
-──────────────────────────────────────────────────────────────
-  [+] Плагины .......................... Bukkit / Spigot / Paper
-  [+] Моды ............................. Forge / Fabric
-  [+] Оптимизация ...................... плагины / моды / ядра
-  [+] Исправление багов ................ ядра / плагины / моды
-  [+] Краши и ошибки ................... диагностика + патч
-──────────────────────────────────────────────────────────────
-```
-
----
-
-```
-> STACK.sys
-──────────────────────────────────────────────────────────────────────
-  BACKEND
-  -------
-  LANG          Java · Golang · Python · TypeScript
-  FRAMEWORKS    Spring · JPA · MySQL
-
-  MINECRAFT
-  ---------
-  SERVER API    Bukkit · Spigot · Paper
-  MOD LOADERS   Forge · Fabric
-  MC VERSIONS   1.5.2 ─────────────────────────────────────► 1.21
-
-  FRONTEND
-  --------
-  LANGUAGES     TypeScript · SCSS · HTML5
-  FRAMEWORKS    Nuxt · Vue · React
-──────────────────────────────────────────────────────────────────────
-```
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=java,go,python,ts,scss,html,nuxtjs,vue,react,spring,mysql&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-```
-> STATS.log
-```
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zstd-dev&show_icons=true&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstd-dev&layout=compact&theme=dark&hide_border=true&title_color=ff0033&text_color=ffffff&bg_color=0d0d0d)
-
-</div>
-
----
-
-```
-> CONTRACT.terms
-──────────────────────────────────────────────────────────────
-  [+] ВАРИАНТ 1 — Гарант-сервис
-      Вы выбираете любой гарант (lolz / gravit / darkminecraft)
-
-  [+] ВАРИАНТ 2 — Предоплата
-      35% до начала работы
-      65% после выполнения
-
-  [+] ОПЛАТА НА ИП — доступна
-
-  [!] ПОДДЕРЖКА — 14 дней после сдачи
-      баги, мелкие правки в рамках задачи
-──────────────────────────────────────────────────────────────
-```
+| | |
+|---|---|
+| Оплата | Гарант-сервис **или** предоплата **или** ИП |
+| Предоплата | **35%** до начала · **65%** после выполнения |
+| Гаранты | lolz · gravit · darkminecraft |
+| Поддержка | **14 дней** после сдачи — баги, мелкие правки |
 
 ---
 
 <div align="center">
 
-`// END OF FILE — CONTACT TO INITIALIZE PROJECT //`
+[![Telegram](https://img.shields.io/badge/TELEGRAM-@davidich444-ff0033?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a)](https://t.me/davidich444)
+&nbsp;
+[![VK](https://img.shields.io/badge/VK-davidich444-ff0033?style=for-the-badge&logo=vk&logoColor=white&labelColor=0a0a0a)](https://vk.com/davidich444)
 
-[![НАЧАТЬ ПРОЕКТ](https://img.shields.io/badge/НАЧАТЬ_ПРОЕКТ-FF0033?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davidich444)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&fontColor=ff0033)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=100&section=footer)
 
 </div>
