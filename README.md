@@ -8,18 +8,9 @@
 
 ---
 
-```
- ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██║   ██║████╗  ██║██║ ██╔╝
-██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝██║   ██║██╔██╗ ██║█████╔╝ 
-██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗ 
-╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║     ╚██████╔╝██║ ╚████║██║  ██╗
- ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
-```
-
 <div align="center">
 
-`[ SYSTEM ONLINE ]` `[ JAVA RUNTIME ACTIVE ]` `[ MINECRAFT CORE LOADED ]`
+`[ SYSTEM ONLINE ]` `[ RUNTIME ACTIVE ]` `[ MINECRAFT CORE LOADED ]`
 
 </div>
 
@@ -27,58 +18,71 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/▶_TELEGRAM-FF0033?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davidich444)
-[![VK](https://img.shields.io/badge/▶_VKONTAKTE-FF0033?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/davidich444)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-FF0033?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davidich444)
+[![VK](https://img.shields.io/badge/VKONTAKTE-FF0033?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/davidich444)
 
 </div>
 
 ---
 
-## `> PROFILE.exe`
-
-```yaml
-alias     : zstd-dev
-focus     : Minecraft Plugin & Mod Development
-versions  : 1.5.2 ──────────────────────► 1.21
-mode      : from_scratch | existing_codebase
-status    : [ AVAILABLE FOR HIRE ]
+```
+> PROFILE.exe
+──────────────────────────────────────────────────────
+  alias     : zstd-dev
+  focus     : Minecraft Plugin & Mod Development
+  versions  : 1.5.2 ──────────────────────────► 1.21
+  mode      : from_scratch | existing_codebase
+  status    : [ AVAILABLE FOR HIRE ]
+──────────────────────────────────────────────────────
 ```
 
 ---
 
-## `> SERVICES.list`
-
 ```
-[✔] Плагины ................................................ Bukkit / Spigot / Paper
-[✔] Моды ................................................... Forge / Fabric
-[✔] Оптимизация ............................................ плагины / моды / ядра
-[✔] Исправление багов ...................................... ядра / плагины / моды
-[✔] Краши и ошибки ......................................... диагностика + патч
+> SERVICES.list
+──────────────────────────────────────────────────────────────
+  [+] Плагины .......................... Bukkit / Spigot / Paper
+  [+] Моды ............................. Forge / Fabric
+  [+] Оптимизация ...................... плагины / моды / ядра
+  [+] Исправление багов ................ ядра / плагины / моды
+  [+] Краши и ошибки ................... диагностика + патч
+──────────────────────────────────────────────────────────────
 ```
 
 ---
 
-## `> STACK.sys`
+```
+> STACK.sys
+──────────────────────────────────────────────────────────────────────
+  BACKEND
+  -------
+  LANG          Java · Golang · Python · TypeScript
+  FRAMEWORKS    Spring · JPA · MySQL
+
+  MINECRAFT
+  ---------
+  SERVER API    Bukkit · Spigot · Paper
+  MOD LOADERS   Forge · Fabric
+  MC VERSIONS   1.5.2 ─────────────────────────────────────► 1.21
+
+  FRONTEND
+  --------
+  LANGUAGES     TypeScript · SCSS · HTML5
+  FRAMEWORKS    Nuxt · Vue · React
+──────────────────────────────────────────────────────────────────────
+```
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,mysql&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,go,python,ts,scss,html,nuxtjs,vue,react,spring,mysql&theme=dark)](https://skillicons.dev)
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────┐
-│  LANG        │  Java                                │
-│  FRAMEWORKS  │  Spring · JPA · MySQL                │
-│  SERVER API  │  Bukkit · Spigot · Paper             │
-│  MOD LOADERS │  Forge · Fabric                      │
-│  MC VERSIONS │  1.5.2 ──────────────────► 1.21      │
-└─────────────────────────────────────────────────────┘
-```
-
 ---
 
-## `> STATS.log`
+```
+> STATS.log
+```
 
 <div align="center">
 
@@ -89,30 +93,31 @@ status    : [ AVAILABLE FOR HIRE ]
 
 ---
 
-## `> CONTRACT.terms`
+```
+> CONTRACT.terms
+──────────────────────────────────────────────────────────────
+  [+] ВАРИАНТ 1 — Гарант-сервис
+      Вы выбираете любой гарант (lolz / gravit / darkminecraft)
 
-```diff
-+ ВАРИАНТ 1: Гарант-сервис
-  Вы выбираете любой гарант (lolz / gravit / darkminecraft)
+  [+] ВАРИАНТ 2 — Предоплата
+      35% до начала работы
+      65% после выполнения
 
-+ ВАРИАНТ 2: Предоплата
-  35% до начала работы
-  65% после выполнения
+  [+] ОПЛАТА НА ИП — доступна
 
-+ ОПЛАТА НА ИП: доступна
-
-! ПОДДЕРЖКА: 14 дней после сдачи
-  (баги, мелкие правки в рамках задачи)
+  [!] ПОДДЕРЖКА — 14 дней после сдачи
+      баги, мелкие правки в рамках задачи
+──────────────────────────────────────────────────────────────
 ```
 
 ---
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&fontColor=ff0033)
-
 `// END OF FILE — CONTACT TO INITIALIZE PROJECT //`
 
-[![Telegram](https://img.shields.io/badge/НАЧАТЬ_ПРОЕКТ-FF0033?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davidich444)
+[![НАЧАТЬ ПРОЕКТ](https://img.shields.io/badge/НАЧАТЬ_ПРОЕКТ-FF0033?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davidich444)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&fontColor=ff0033)
 
 </div>
