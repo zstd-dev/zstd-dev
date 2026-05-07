@@ -1,7 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=180&section=header&text=zstd-dev&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Plugin%20%26%20Mod%20Developer%20%E2%80%A2%201.5.2%20%E2%86%92%201.21&descAlignY=60&descSize=16&descColor=ff0033)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=Minecraft+Plugin+%26+Mod+Development;Java+%7C+Golang+%7C+Python+%7C+TypeScript;Bukkit+%7C+Spigot+%7C+Paper+%7C+Forge+%7C+Fabric;From+scratch+or+existing+codebase;Bugs+fear+me.)](https://git.io/typing-svg)
 
 <br>
