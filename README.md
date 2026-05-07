@@ -63,10 +63,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zstd-dev&show_icons=true&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=aaaaaa&bg_color=0a0a0a)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstd-dev&layout=compact&theme=dark&hide_border=true&title_color=ff0033&text_color=aaaaaa&bg_color=0a0a0a)
-
 ![Streak](https://streak-stats.demolab.com?user=zstd-dev&theme=dark&hide_border=true&background=0a0a0a&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=555555&currStreakNum=ffffff&sideNums=aaaaaa&dates=333333)
 
 </div>
