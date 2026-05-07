@@ -57,18 +57,6 @@
 ![](https://img.shields.io/badge/Forge-ff0033?style=flat-square&labelColor=0f0f0f)
 ![](https://img.shields.io/badge/Fabric-ff0033?style=flat-square&labelColor=0f0f0f)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=zstd-dev&theme=dark&hide_border=true&background=0a0a0a&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=555555&currStreakNum=ffffff&sideNums=aaaaaa&dates=333333)
-
-</div>
-
----
-
 ## Contract
 
 | | |
