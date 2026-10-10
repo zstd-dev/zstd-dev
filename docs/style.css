@@ -47,7 +47,6 @@ body {
   color: var(--text);
   background: var(--panel);
   border: 1px solid var(--border);
-  border-radius: 8px;
   padding: 6px 12px;
   cursor: pointer;
 }
@@ -56,7 +55,6 @@ body {
   display: inline-block; min-width: 20px;
   text-align: center;
   background: var(--blue); color: var(--bg);
-  border-radius: 6px; font-weight: 700;
   padding: 0 4px; margin-left: 4px;
 }
 
@@ -75,7 +73,6 @@ body {
   font-size: 13px;
   background: var(--panel);
   border: 1px solid var(--border);
-  border-radius: 999px;
   padding: 4px 14px;
   color: var(--text);
 }
@@ -88,13 +85,11 @@ body {
   color: var(--text);
   background: var(--panel);
   border: 1px solid var(--border);
-  border-radius: 8px;
   padding: 10px 20px;
   text-decoration: none;
   cursor: pointer;
-  transition: transform .12s, border-color .12s;
+  transition: border-color .12s;
 }
-.btn:hover { border-color: var(--blue); transform: translateY(-1px); }
 .btn-primary { background: var(--blue); color: var(--bg); border-color: var(--blue); }
 .btn-primary:hover { background: var(--purple); border-color: var(--purple); }
 .btn-wide { width: 100%; }
@@ -115,12 +110,10 @@ body {
 .card {
   background: var(--panel);
   border: 1px solid var(--border);
-  border-radius: 12px;
   padding: 20px;
   display: flex; flex-direction: column; gap: 10px;
-  transition: border-color .15s, transform .15s;
+  transition: border-color .15s;
 }
-.card:hover { border-color: var(--blue); transform: translateY(-2px); }
 .card-id { color: var(--muted); font-size: 12px; }
 .card h3 { font-size: 16px; color: var(--blue); }
 .card p { font-size: 13px; color: var(--muted); flex: 1; }
@@ -135,7 +128,6 @@ body {
   background: var(--panel-2);
   border: 1px solid var(--border);
   border-left: 3px solid var(--blue);
-  border-radius: 8px;
   padding: 14px 18px;
 }
 .steps b { color: var(--blue); display: block; margin-bottom: 2px; }
@@ -145,7 +137,6 @@ body {
 .terms-block {
   background: var(--panel-2);
   border: 1px solid var(--border);
-  border-radius: 12px;
   padding: 20px;
   overflow-x: auto;
 }
@@ -192,7 +183,6 @@ body {
   display: flex; align-items: center; gap: 10px;
   background: var(--panel);
   border: 1px solid var(--border);
-  border-radius: 8px;
   padding: 10px 12px;
   font-size: 13px;
 }
@@ -203,7 +193,6 @@ body {
 .qty button {
   font: inherit; width: 22px; height: 22px; line-height: 1;
   color: var(--text); background: var(--panel-2);
-  border: 1px solid var(--border); border-radius: 5px; cursor: pointer;
 }
 .qty button:hover { border-color: var(--blue); }
 
@@ -221,7 +210,6 @@ body {
   color: var(--text);
   background: var(--panel);
   border: 1px solid var(--border);
-  border-radius: 8px;
   padding: 10px 12px;
   resize: vertical;
 }
@@ -235,7 +223,6 @@ body {
   background: var(--panel);
   border: 1px solid var(--green);
   color: var(--text);
-  border-radius: 8px;
   padding: 10px 18px;
   font-size: 13px;
   box-shadow: 0 8px 30px rgba(0, 0, 0, .4);

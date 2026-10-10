@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>zstd-dev — магазин услуг</title>
-<meta name="description" content="Разработка Minecraft-плагинов и модов под заказ: Bukkit, Spigot, Paper, Forge, Fabric. Оптимизация, фиксы багов и крашей. Версии 1.5.2 → 1.21.">
+<title>zstd-dev | магазин услуг</title>
+<meta name="description" content="Разработка Minecraft-плагинов и модов под заказ: Bukkit, Spigot, Paper, Forge, Fabric. Оптимизация, фиксы багов и крашей. Версии 1.5.2 - 1.21.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
@@ -28,39 +28,39 @@
 <header class="hero" id="top">
   <p class="hero-line"><span class="prompt">~ ❯</span> whoami</p>
   <h1>магазин услуг <span class="accent">zstd-dev</span></h1>
-  <p class="hero-sub">minecraft-плагины и моды под заказ · bukkit / spigot / paper / forge / fabric · версии 1.5.2 → 1.21</p>
+  <p class="hero-sub">minecraft-плагины и моды под заказ. bukkit / spigot / paper / forge / fabric, версии 1.5.2 - 1.21</p>
   <div class="hero-badges">
-    <span class="badge badge-green">● available for hire</span>
+    <span class="badge badge-green">available for hire</span>
     <span class="badge">с нуля или по готовому коду</span>
     <span class="badge">14 дней поддержки</span>
   </div>
-  <a class="btn btn-primary" href="#catalog">перейти в каталог ↓</a>
+  <a class="btn btn-primary" href="#catalog">перейти в каталог</a>
 </header>
 
 <main>
   <section class="section" id="catalog">
     <h2><span class="prompt">~ ❯</span> cat catalog.txt</h2>
     <div class="grid" id="productGrid"></div>
-    <p class="note">цены указаны «от» — финальная стоимость зависит от объёма и обсуждается до начала работы</p>
+    <p class="note">все цены стартовые, финальная стоимость зависит от объёма и обсуждается до начала работы</p>
   </section>
 
   <section class="section" id="how">
     <h2><span class="prompt">~ ❯</span> cat how-to-order.md</h2>
     <ol class="steps">
-      <li><b>[01] выбери услуги</b><span>добавь нужное в корзину и оформи заказ — текст заявки сформируется сам</span></li>
-      <li><b>[02] напиши в telegram</b><span>вставь заявку в чат, опиши задачу подробнее — обсудим объём и точную цену</span></li>
+      <li><b>[01] выбери услуги</b><span>добавь нужное в корзину и оформи заказ, текст заявки сформируется сам</span></li>
+      <li><b>[02] напиши в telegram</b><span>вставь заявку в чат и опиши задачу подробнее, обсудим объём и точную цену</span></li>
       <li><b>[03] оплата</b><span>гарант-сервис, или предоплата 35% до начала и 65% после выполнения, или ИП</span></li>
-      <li><b>[04] сдача и поддержка</b><span>готовая работа + 14 дней бесплатных правок и фиксов багов</span></li>
+      <li><b>[04] сдача и поддержка</b><span>готовая работа и 14 дней бесплатных правок</span></li>
     </ol>
   </section>
 
   <section class="section" id="terms">
     <h2><span class="prompt">~ ❯</span> cat contract.md</h2>
     <div class="terms-block">
-      <pre>оплата ........ гарант-сервис / предоплата / ИП
-предоплата .... 35% до начала · 65% после выполнения
-гаранты ....... lolz · gravit · darkminecraft
-поддержка ..... 14 дней после сдачи — баги, мелкие правки</pre>
+      <pre>оплата: гарант-сервис / предоплата / ИП
+предоплата: 35% до начала, 65% после выполнения
+гаранты: lolz, gravit, darkminecraft
+поддержка: 14 дней после сдачи (баги, мелкие правки)</pre>
     </div>
   </section>
 </main>
@@ -72,7 +72,7 @@
     <a class="btn" href="https://vk.com/davidich444" target="_blank" rel="noopener">vk davidich444</a>
     <a class="btn" href="https://github.com/zstd-dev" target="_blank" rel="noopener">github zstd-dev</a>
   </div>
-  <p class="footer-note">© zstd-dev · bugs fear me</p>
+  <p class="footer-note">© zstd-dev | bugs fear me</p>
 </footer>
 
 <div class="overlay" id="overlay" hidden></div>
@@ -80,7 +80,7 @@
 <aside class="cart" id="cart" hidden>
   <div class="cart-head">
     <h3><span class="prompt">~ ❯</span> cart</h3>
-    <button class="icon-btn" id="cartClose" aria-label="Закрыть">✕</button>
+    <button class="icon-btn" id="cartClose" aria-label="Закрыть">x</button>
   </div>
   <div class="cart-items" id="cartItems"></div>
   <div class="cart-total">итого: <b id="cartTotal">от 0 ₽</b></div>
@@ -88,8 +88,8 @@
   <div class="checkout">
     <input type="text" id="buyerNick" placeholder="твой ник / telegram" maxlength="64">
     <textarea id="buyerNote" placeholder="коротко о задаче (сервер, версия, что нужно)" rows="3" maxlength="600"></textarea>
-    <button class="btn btn-primary btn-wide" id="checkoutBtn">оформить заказ → telegram</button>
-    <p class="checkout-hint" id="checkoutHint">заявка скопируется в буфер — просто вставь её в чат</p>
+    <button class="btn btn-primary btn-wide" id="checkoutBtn">оформить заказ в telegram</button>
+    <p class="checkout-hint" id="checkoutHint">заявка скопируется в буфер, просто вставь её в чат</p>
   </div>
 </aside>
 

@@ -1,6 +1,6 @@
 /* ===== каталог: правь цены и описания здесь ===== */
 const PRODUCTS = [
-  { id: "plugin",  name: "Плагин под заказ",        price: 3000, desc: "Bukkit / Spigot / Paper. Любая механика: кастомные команды, GUI, экономика, ивенты. Версии 1.5.2 → 1.21." },
+  { id: "plugin",  name: "Плагин под заказ",        price: 3000, desc: "Bukkit / Spigot / Paper. Любая механика: кастомные команды, GUI, экономика, ивенты. Версии 1.5.2 - 1.21." },
   { id: "mod",     name: "Мод под заказ",           price: 5000, desc: "Forge / Fabric. Новые блоки, предметы, механики, интеграции. Клиент и сервер." },
   { id: "optim",   name: "Оптимизация сервера",     price: 2500, desc: "Профилирование и ускорение: плагины, моды, ядро, конфиги. TPS вверх, лаги вниз." },
   { id: "bugfix",  name: "Фикс багов и крашей",     price: 1500, desc: "Разбор логов, дебаг, исправление ошибок в ядрах, плагинах и модах." },
@@ -54,7 +54,7 @@ function updateAddButtons() {
   document.querySelectorAll("[data-add]").forEach((b) => {
     const inCart = !!cart[b.getAttribute("data-add")];
     b.classList.toggle("in-cart", inCart);
-    b.textContent = inCart ? "✓ в корзине" : "в корзину";
+    b.textContent = inCart ? "в корзине" : "в корзину";
   });
 }
 
@@ -82,7 +82,7 @@ function renderCart() {
     row.innerHTML = `
       <span class="cart-item-name">${p.name}</span>
       <span class="qty">
-        <button data-dec="${p.id}">−</button>${qty}<button data-inc="${p.id}">+</button>
+        <button data-dec="${p.id}">-</button>${qty}<button data-inc="${p.id}">+</button>
       </span>
       <span class="cart-item-price">от ${fmt(p.price * qty)}</span>`;
     items.appendChild(row);
@@ -141,7 +141,7 @@ $("checkoutBtn").addEventListener("click", async () => {
   let copied = false;
   try { await navigator.clipboard.writeText(text); copied = true; } catch (e) {}
   if (copied) {
-    toast("заявка скопирована — вставь её в чат");
+    toast("заявка скопирована, вставь её в чат");
   } else {
     $("checkoutHint").textContent = "скопируй заявку вручную: " + text;
   }

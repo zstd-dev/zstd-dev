@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b26,50:414868,100:7aa2f7&height=230&text=zstd-dev&fontSize=50&fontColor=c0caf5&animation=fadeIn&desc=minecraft%20plugin%20%26%20mod%20development&descSize=16&descAlignY=62" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=%24+gradle+build+...+BUILD+SUCCESSFUL;bukkit+%7C+spigot+%7C+paper+%7C+forge+%7C+fabric;java+%7C+golang+%7C+python+%7C+typescript;1.5.2+%E2%86%92+1.21+%C2%B7+bugs+fear+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=%24+gradle+build+...+BUILD+SUCCESSFUL;bukkit+%7C+spigot+%7C+paper+%7C+forge+%7C+fabric;java+%7C+golang+%7C+python+%7C+typescript;1.5.2+-%3E+1.21+%7C+bugs+fear+me)](https://git.io/typing-svg)
 
 <br>
 
@@ -19,19 +19,19 @@
 ```console
 разработчик minecraft-плагинов и модов
 
-  языки ......... java · golang · python · typescript
-  платформы ..... bukkit · spigot · paper · forge · fabric
-  версии ........ 1.5.2 → 1.21
-  режим ......... с нуля или по готовому коду
+  языки: java, golang, python, typescript
+  платформы: bukkit, spigot, paper, forge, fabric
+  версии: 1.5.2 - 1.21
+  режим: с нуля или по готовому коду
 ```
 
 ## <samp>~ ❯ cat services.txt</samp>
 
 ```console
-[01] плагины ........... bukkit · spigot · paper
-[02] моды .............. forge · fabric
-[03] оптимизация ....... плагины · моды · ядра
-[04] фиксы ............. баги · краши · ошибки ядер
+[01] плагины: bukkit, spigot, paper
+[02] моды: forge, fabric
+[03] оптимизация: плагины, моды, ядра
+[04] фиксы: баги, краши, ошибки ядер
 ```
 
 ## <samp>~ ❯ ls stack/</samp>
@@ -72,10 +72,10 @@
 ## <samp>~ ❯ cat contract.md</samp>
 
 ```console
-оплата ........ гарант-сервис / предоплата / ИП
-предоплата .... 35% до начала · 65% после выполнения
-гаранты ....... lolz · gravit · darkminecraft
-поддержка ..... 14 дней после сдачи — баги, мелкие правки
+оплата: гарант-сервис / предоплата / ИП
+предоплата: 35% до начала, 65% после выполнения
+гаранты: lolz, gravit, darkminecraft
+поддержка: 14 дней после сдачи (баги, мелкие правки)
 ```
 
 ## <samp>~ ❯ ping zstd-dev</samp>
